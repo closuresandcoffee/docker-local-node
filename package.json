@@ -1,0 +1,12 @@
+{
+    "name": "cnc-node-starter-template",
+    "version": "1.0.0",
+    "author": "closuresandcoffee <1534554+closuresandcoffee@users.noreply.github.com>",
+    "scripts": {
+        "start:development": "npx nodemon src/index.js",
+        "start:production": "node src/index.js"
+    },
+    "devDependencies": {
+        "nodemon": "3.0.3"
+    }
+  }
